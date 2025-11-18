@@ -1,12 +1,12 @@
 # Hi there, I'm Michael 👋
 
 ## Software Engineer | Node.js | Java
-### Years of Experience: 2 years and 10 months (almost 3 years!)
+### Years of Experience: 3 years
 ![Profile views](https://komarev.com/ghpvc/?username=kel-flrs&color=blueviolet)
 ---
 
 ### 💻 About Me
-I love solving complex business problems through code, whether it's optimizing performance bottlenecks, building scalable APIs, or designing robust systems that drive real business value. There's nothing more satisfying than seeing technical solutions directly impact an organization's success!
+A craftsman who values principles over tools - adaptable to any stack, learning what's needed when it's needed, and focused on writing code that works, lasts, and serves its purpose well.
 
 ---
 - 🌱 Continuous learning is part of my DNA as a software engineer—what others might find exhausting, I find energizing and fulfilling. The constant evolution of technology isn't a burden; it's what keeps this career endlessly fascinating!
