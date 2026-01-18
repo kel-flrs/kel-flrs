@@ -6,29 +6,24 @@
 ---
 
 ### 💻 About Me
-A craftsman who values principles over tools - adaptable to any stack, learning what's needed when it's needed, and focused on writing code that works, lasts, and serves its purpose well.
+Software Engineer specializing in Java, Spring Boot, Node.js and TypeScript.
 
----
-- 🌱 Continuous learning is part of my DNA as a software engineer—what others might find exhausting, I find energizing and fulfilling. The constant evolution of technology isn't a burden; it's what keeps this career endlessly fascinating!
-- 🔍 I approach technical challenges with persistent curiosity—the more complex the problem, the more satisfying the solution. That moment when everything finally clicks after hours of troubleshooting? Absolutely priceless!
-- 🚀 I continuously push beyond my comfort zone, believing that professional growth happens precisely at the edge of what feels familiar and what feels challenging.
-- 👂 I approach discussions with an open mind, recognizing that brilliant ideas can come from anywhere and anyone. This receptiveness has helped me integrate innovative approaches into my work and build stronger collaborative relationships across teams.
-- 🗣️ I'm never hesitant to speak up when it matters—whether advocating for better technical approaches, providing constructive feedback, or raising concerns about project direction. Good solutions emerge from open dialogue, and I believe my voice adds value to every team I join.
----
+Hands-on experience across the software development lifecycle. Contributed to microservices and cloud-based systems in Agile teams supporting fintech and SaaS products.
+
+Adaptable, tech-stack agnostic, collaborative, and self-sufficient. Keeps up to date with modern software engineering practices.
 
 ### 🛠️ Primary Skills
 
 #### Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Backend Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
 #### APIs
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -41,14 +36,14 @@ A craftsman who values principles over tools - adaptable to any stack, learning 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Testing
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 #### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Cloud
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
